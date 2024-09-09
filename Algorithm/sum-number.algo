@@ -1,0 +1,7 @@
+ALGORITHM SUM-NUMBERS
+VAR
+    a,b,c:INTEGER
+    sum:INTEGER:=0
+BEGIN
+    
+END
