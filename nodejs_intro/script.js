@@ -5,4 +5,4 @@ const company = {
   address: "abc",
   location: "pqr",
 };
-console.log(company.address, location);
+console.log(company.address);
